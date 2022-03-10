@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+body{
+    background: #fff;
+    font-family: Poppins;
+}
+
+
+#app_name{
+    background-color: rgb(164, 236, 209);
+    font-size: 36px;
+    font-weight: 600;
+
+}
+
+#app_name span{
+    
+    font-weight: 400;
+}
+
+
+#title{
+   
+    height: 50px;
+    
+}
+
+#cont{
+    height: 600px;
+    background-color: blueviolet;
+}
+
+.objeto{
+
+    position: absolute;
+
+}
+
+#caribe{
+    
+    top: 15%;
+    left: 40%;
+}
+
+#andina{
+    top: 22%;
+    left: 42.2%;
+}
+
+#pacifica{
+    top: 23.5%;
+    left: 39.5%;
+}
+
+#orinoco{
+    top: 26.7%;
+    left: 45.2%;
+}
+
+#amazonia{
+    top: 33.4%;
+    left: 42.1%;
+}
+
+#nav_bar{
+    background-color: rgb(191, 213, 190);
+    min-width: 400px;
+}
+
